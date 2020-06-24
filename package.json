@@ -1,0 +1,15 @@
+{
+  "name": "pruebas-unitarias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "jest": "^26.0.1"
+  }
+}
